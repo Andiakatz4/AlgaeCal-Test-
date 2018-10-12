@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Andiakatz4/AlgaeCal-Test-#readme",
   "devDependencies": {
     "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
   }
 }
