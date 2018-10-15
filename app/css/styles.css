@@ -1,0 +1,45 @@
+body {
+    font-family: 'Glober', 'Roboto';
+    font-size: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+.introducing {
+    background-image: url("../images/green.png");
+    background-position: center;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.card-body-3 {
+    text-align: center;
+    margin: 40px;
+}
+
+.card-body-6 {
+    align-content: center;
+    text-align: center;
+    margin: 40px;
+}
+
+.six-price {
+    background: url("../images/highlight-3.png");
+    background-repeat: no-repeat;
+    align-content: center;
+    align-self: auto;
+
+}
+
+.card-body-12 {
+    text-align: center;
+    margin: 40px;
+}
+
+.table-bordered {
+text-align: left;
+border-width: thick;
+color: black;
+}
